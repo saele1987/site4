@@ -1,0 +1,4 @@
+baseURL = "https://deathpoemyes.vercel.app"
+languageCode = "en-us"
+title = "Death Poems Short"
+theme = "hugo-theme-minos"
